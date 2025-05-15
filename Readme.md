@@ -67,7 +67,7 @@ Let’s build it together! 🔧
 
 ## 📄 License
 
-📝 MIT License — see [`LICENSE`](./LICENSE)
+📝 MIT License — see [`LICENSE`](./License.txt)
 
 ---
 
